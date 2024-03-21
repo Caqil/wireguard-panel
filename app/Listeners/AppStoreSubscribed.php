@@ -7,6 +7,7 @@ use App\Models\Plan;
 use App\Models\Subscription;
 // use App\Repositories\SubscriptionRepository;
 use App\User;
+use Illuminate\Support\Facades\Log;
 
 class AppStoreSubscribed
 {
